@@ -1,3 +1,11 @@
+'contoh print'
+
+print("Halo, teman-teman!")
+print("Saya sedang belajar Python.")
+print(10 + 5)
+
+
+'contoh if else'
 num = 13
 
 if num > 10:
